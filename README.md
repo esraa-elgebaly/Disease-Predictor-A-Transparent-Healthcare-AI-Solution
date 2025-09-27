@@ -1,0 +1,2 @@
+# Disease-Predictor-A-Transparent-Healthcare-AI-Solution
+This project addresses the critical need for transparency and reliability in healthcare AI by developing a robust Machine Learning system that predicts diseases from symptoms. The system utilizes advanced Ensemble Learning and incorporates Explainable AI (XAI) principles, providing not just a diagnosis but also the logic and confidence behind it.
